@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+.nav{
+	position: fixed;
+	text-align: center;;
+	width: 100%;
+	background: rgba(14,14,14,0.8);
+	padding: 20px 5px 20px 10px;
+}
+
+ul>li>a{
+	color: #ffffff;
+}
+
+ul>li{
+	padding:0px 45px;
+	display: inline-block;
+}
+
+ul>li>a:hover{
+	color: #1177ff;
+}
+
+.content1{
+	padding: 30px;
+}
